@@ -1,8 +1,9 @@
 <img src="https://media.licdn.com/dms/image/D4D16AQEQOzgVebWvVA/profile-displaybackgroundimage-shrink_350_1400/0/1695981643244?e=1701907200&v=beta&t=JEPlR0aSvhND_B1I3DVKlYlqrJyNHqnJwY4oAdCVCFA" alt="Masthead Banner Image">
 
 
+
 <h1 align="center">Hi 👋, my self Khan Mubashshir Azeem</h1>
-<h3 align="center">A passionate frontend android developer from India</h3>
+<h3 align="center">A in Android Mobile Application developer from India</h3>
 
 <img src="https://images.unsplash.com/photo-1499673610122-01c7122c5dcb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8Y29kaW5nJTIwYW5pbWF0ZWR8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=400&q=60" alt="Image Description" style="width: 1000px; float: right;">
 
