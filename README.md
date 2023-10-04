@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/D4D16AQEQOzgVebWvVA/profile-displaybackgroundimage-shrink_350_1400/0/1695981643244?e=1701907200&v=beta&t=JEPlR0aSvhND_B1I3DVKlYlqrJyNHqnJwY4oAdCVCFA" alt="Masthead Banner Image">
+<img src="https://wallpapers.com/images/high/minimalist-android-robot-and-logo-bluntpjmdndjlcin.webp" alt="Masthead Banner Image">
 
 
 
