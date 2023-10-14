@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [WhatsAapClone](https://github.com/KhanMubashshirAzeem/WhatsAapClone)
+- 🔭 I’m currently working on [NewsApplication](https://github.com/KhanMubashshirAzeem/NewsApplication)
 
 - 🌱 I’m currently learning **Native Android with Java and XML.**
 
