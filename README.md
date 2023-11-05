@@ -14,8 +14,13 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [NewsApplication](https://github.com/KhanMubashshirAzeem/NewsApplication)
+- 🔭 I’m currently working on [AttendanceApp](https://github.com/KhanMubashshirAzeem/AttendanceApp)
+- 🔭 I’m currently working on [WhatsAapClone](https://github.com/KhanMubashshirAzeem/WhatsAapClone)
 
-- 🌱 I’m currently learning **Native Android with Java XML, Firebase.**
+- I am solving DSA problems using Java -->  [Java_Programming_And_DSA](https://github.com/KhanMubashshirAzeem/Java_Programming_And_DSA)
+
+
+- 🌱 I’m currently learning **Native Android with Java, XML and Firebase.**
 
 - 💬 Ask me about **Android, Java, XML.**
 
