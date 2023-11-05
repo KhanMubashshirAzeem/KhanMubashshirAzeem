@@ -5,8 +5,6 @@
 <h1 align="center">Hi 👋, my self Khan Mubashshir Azeem</h1>
 <h3 align="center">I am a Android Mobile Application developer</h3>
 
-<img src="https://images.unsplash.com/photo-1499673610122-01c7122c5dcb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8Y29kaW5nJTIwYW5pbWF0ZWR8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=400&q=60" alt="Image Description" style="width: 1000px; float: right;">
-
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khanmubashshirazeem&label=Profile%20views&color=0e75b6&style=flat" alt="khanmubashshirazeem" /> </p>
@@ -24,14 +22,14 @@
 
 - 💬 Ask me about **Android, Java, XML.**
 
-- 📫 How to reach me **khanmubashshir08@gmail.com**
-
+- 📫 How to reach me Email **khanmubashshir08@gmail.com**
 - ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/khan mubashshir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khan mubashshir" height="30" width="40" /></a>
 <a href="https://instagram.com/mubashshir____khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mubashshir____khan" height="30" width="40" /></a>
+    
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
