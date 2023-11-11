@@ -11,9 +11,10 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [NewsApplication](https://github.com/KhanMubashshirAzeem/NewsApplication)
-- 🔭 I’m currently working on [AttendanceApp](https://github.com/KhanMubashshirAzeem/AttendanceApp)
-- 🔭 I’m currently working on [WhatsAapClone](https://github.com/KhanMubashshirAzeem/WhatsAapClone)
+- 🔭 I’m currently working on these projects
+1. [NewsApplication](https://github.com/KhanMubashshirAzeem/NewsApplication)
+2. [AttendanceApp](https://github.com/KhanMubashshirAzeem/AttendanceApp)
+3. [WhatsAapClone](https://github.com/KhanMubashshirAzeem/WhatsAapClone)
 
 - I am solving DSA problems using Java -->  [Java_Programming_And_DSA](https://github.com/KhanMubashshirAzeem/Java_Programming_And_DSA)
 
