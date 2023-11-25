@@ -17,7 +17,7 @@
 3. [WhatsAapClone](https://github.com/KhanMubashshirAzeem/WhatsAapClone)
 
   <h4>  After Completing these projects I will switch from Java to Kotlin. </h4>
-- I am solving DSA problems using Java -->  [Java_Programming_And_DSA](https://github.com/KhanMubashshirAzeem/Java_Programming_And_DSA)
+- I am solving DSA problems using Java :  [Java_Programming_And_DSA](https://github.com/KhanMubashshirAzeem/Java_Programming_And_DSA)
 
 
 - 🌱 I’m currently learning **Native Android with Java, XML and Firebase.**
