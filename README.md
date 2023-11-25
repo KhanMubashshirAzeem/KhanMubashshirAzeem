@@ -16,6 +16,8 @@
 2. [AttendanceApp](https://github.com/KhanMubashshirAzeem/AttendanceApp)
 3. [WhatsAapClone](https://github.com/KhanMubashshirAzeem/WhatsAapClone)
 
+   After Completing these projects I will switch from Java to Kotlin.
+
 - I am solving DSA problems using Java -->  [Java_Programming_And_DSA](https://github.com/KhanMubashshirAzeem/Java_Programming_And_DSA)
 
 
