@@ -18,6 +18,11 @@
 2. [AttendanceApp](https://github.com/KhanMubashshirAzeem/AttendanceApp)
 3. [WhatsAapClone](https://github.com/KhanMubashshirAzeem/WhatsAapClone)
 
+- The completed projects.
+1. [WhatsAapClone](https://github.com/KhanMubashshirAzeem/WhatsAapClone)
+2. [NewsApplication](https://github.com/KhanMubashshirAzeem/NewsApplication)
+
+
   <h4>  After Completing these projects I will switch from Java to Kotlin. </h4>
 - I am solving DSA problems using Java :  [Java_Programming_And_DSA](https://github.com/KhanMubashshirAzeem/Java_Programming_And_DSA)
 
