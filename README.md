@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, my self Khan Mubashshir Azeem</h1>
 <h3 align="center">I am a Android Mobile Application developer</h3>
 
-
+.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khanmubashshirazeem&label=Profile%20views&color=0e75b6&style=flat" alt="khanmubashshirazeem" /> </p>
 
