@@ -20,16 +20,18 @@
 - 🔭 I’m currently working on these projects
 1. [NewsApplication](https://github.com/KhanMubashshirAzeem/NewsApplication)
 2. [AttendanceApp](https://github.com/KhanMubashshirAzeem/AttendanceApp)
-3. [WhatsAapClone](https://github.com/KhanMubashshirAzeem/WhatsAapClone)
+3. [DocTree](https://github.com/KhanMubashshirAzeem/DocTree)
 
 - The completed projects.
 1. [WhatsAapClone](https://github.com/KhanMubashshirAzeem/WhatsAapClone)
 2. [NewsApplication](https://github.com/KhanMubashshirAzeem/NewsApplication)
+3. [SQLiteApp](https://github.com/KhanMubashshirAzeem/SQLiteApp)
+4. [notes_pro](https://github.com/KhanMubashshirAzeem/notes_pro)
+5. [Calculator](https://github.com/KhanMubashshirAzeem/Calculator)
 
-
-  <h4>  After Completing these projects I will switch from Java to Kotlin. </h4>
-- I am solving DSA problems using Java :  [Java_Programming_And_DSA](https://github.com/KhanMubashshirAzeem/Java_Programming_And_DSA)
-
+   <h4>Data Structure And Algorithm Using Java </h4>
+1. [Java_Programming_And_DSA](https://github.com/KhanMubashshirAzeem/Java_Programming_And_DSA)
+2. 
 
 - 🌱 I’m currently learning **Native Android with Java, XML and Firebase.**
 
