@@ -30,8 +30,7 @@
 5. [Calculator](https://github.com/KhanMubashshirAzeem/Calculator)
 
    <h4>Data Structure And Algorithm Using Java </h4>
-1. [Java_Programming_And_DSA](https://github.com/KhanMubashshirAzeem/Java_Programming_And_DSA)
-2. 
+1. [Java_Programming_And_DSA](https://github.com/KhanMubashshirAzeem/Java_Programming_And_DSA) 
 
 - 🌱 I’m currently learning **Native Android with Java, XML and Firebase.**
 
