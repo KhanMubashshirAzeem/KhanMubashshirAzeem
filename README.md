@@ -30,9 +30,17 @@
 5. [Calculator](https://github.com/KhanMubashshirAzeem/Calculator)
 
    <h4>Data Structure And Algorithm Using Java </h4>
-1. [Java_Programming_And_DSA](https://github.com/KhanMubashshirAzeem/Java_Programming_And_DSA) 
+1. [Java_Programming_And_DSA](https://github.com/KhanMubashshirAzeem/Java_Programming_And_DSA)
 
-- 🌱 I’m currently learning **Native Android with Java, XML, MVVM Architecture, Retrofit API, Volley API and Firebase Authentication.**
+- **I’m currently learning**
+  
+  Native Android with Java</br>
+  XML</br>
+  MVVM Architecture</br>
+  Retrofit API</br>
+  Volley API</br>
+  Firebase Authentication</br>
+
 
 - 💬 Ask me about **Android, Java, XML.**
 
