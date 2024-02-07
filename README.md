@@ -32,7 +32,7 @@
    <h4>Data Structure And Algorithm Using Java </h4>
 1. [Java_Programming_And_DSA](https://github.com/KhanMubashshirAzeem/Java_Programming_And_DSA) 
 
-- 🌱 I’m currently learning **Native Android with Java, XML and Firebase.**
+- 🌱 I’m currently learning **Native Android with Java, XML, MVVM Architecture, Retrofit API, Volley API and Firebase Authentication.**
 
 - 💬 Ask me about **Android, Java, XML.**
 
