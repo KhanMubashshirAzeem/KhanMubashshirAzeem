@@ -85,6 +85,12 @@
     <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="IntelliJ IDEA" width="40" height="40"/>
     </a>
+    <a href="https://github.com/KhanMubashshirAzeem/KhanMubashshirAzeem/assets/123080070/30821c27-1548-4a4f-aecb-5376fe1652f3" target="_blank" rel="noreferrer">
+        <img src="https://github.com/KhanMubashshirAzeem/KhanMubashshirAzeem/assets/123080070/30821c27-1548-4a4f-aecb-5376fe1652f3" alt="New Image" width="40" height="40"/>
+    </a>
+
+    
+
 </p>
 
 
