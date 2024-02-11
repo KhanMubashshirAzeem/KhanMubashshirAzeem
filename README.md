@@ -41,11 +41,7 @@
   Volley API</br>
   Firebase Authentication</br>
 
-
-- 💬 Ask me about **Android, Java, XML.**
-
-- 📫 How to reach me Email **khanmubashshir08@gmail.com**
-
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/khanmubashshir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khan mubashshir" height="30" width="40" /></a>
@@ -89,7 +85,6 @@
         <img src="https://github.com/KhanMubashshirAzeem/KhanMubashshirAzeem/assets/123080070/30821c27-1548-4a4f-aecb-5376fe1652f3" alt="New Image" width="40" height="40"/>
     </a>
 
-    
 
 </p>
 
