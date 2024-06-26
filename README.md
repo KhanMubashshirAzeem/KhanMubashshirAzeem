@@ -15,18 +15,7 @@
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning Native Android with Java, XML, MVVM Architecture, Retrofit API, Volley API, and Firebase Authentication.
-- 🛠 Working on advanced technologies in Android development.
-- 🔭 I’m currently working on:
-  - [NewsApplication](https://github.com/KhanMubashshirAzeem/NewsApplication)
-  - [AttendanceApp](https://github.com/KhanMubashshirAzeem/AttendanceApp)
-  - [DocTree](https://github.com/KhanMubashshirAzeem/DocTree)
-- ✅ Completed projects:
-  - [WhatsAppClone](https://github.com/KhanMubashshirAzeem/WhatsAapClone)
-  - [NewsApplication](https://github.com/KhanMubashshirAzeem/NewsApplication)
-  - [SQLiteApp](https://github.com/KhanMubashshirAzeem/SQLiteApp)
-  - [notes_pro](https://github.com/KhanMubashshirAzeem/notes_pro)
-  - [Calculator](https://github.com/KhanMubashshirAzeem/Calculator)
+My name is Khan Mubashshir looking for Internships, I am a native Android developer with a passion for creating standout Android applications. I thrive on learning and building apps that make a difference. Solving problems in Data Structures and Algorithms (DSA) excites me, and Java is my favorite programming language for developing innovative solutions. Along with my strong understanding of frontend development in Android, I am well-versed in database concepts and familiar with APIs and various architectural patterns. I have built several small projects leveraging resources like GitHub, Google, and YouTube. Currently, I am pursuing my final year in Computer Science Engineering. If you are looking for someone who loves building cool stuff for Android and enjoys tackling challenging problems, let's connect and collaborate!
 
 ## 📘 Data Structure and Algorithm Using Java
 
