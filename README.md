@@ -6,7 +6,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Khan Mubashshir Azeem</h1>
-<h3 align="center">I am an Android Mobile Application Developer</h3>
+<h3 align="center">I am an Native Android Application Developer</h3>
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=khanmubashshirazeem&label=Profile%20views&color=0e75b6&style=flat" alt="khanmubashshirazeem" />
