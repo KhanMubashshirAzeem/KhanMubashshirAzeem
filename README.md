@@ -72,5 +72,5 @@ My name is Khan Mubashshir looking for Internships, I am a native Android develo
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khanmubashshirazeem&" alt="khanmubashshirazeem" /></p>
 
 
-[roadmap.pdf](https://github.com/user-attachments/files/16677075/roadmap.pdf)
+[roadmap.pdf](https://github.com/KhanMubashshirAzeem/AndroidRoadmapWithLearningMaterial/blob/master/roadmap.pdf)
 
