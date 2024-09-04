@@ -19,9 +19,11 @@ My name is Khan Mubashshir, and I'm looking for internships. I am a native Andro
 
 ---
 
-## 📘 Data Structure and Algorithm Using Java
 
-- [Java_Programming_And_DSA](https://github.com/KhanMubashshirAzeem/Java_Programming_And_DSA)
+
+## [👨🏻‍💻 Data Structure and Algorithm In Java](https://github.com/KhanMubashshirAzeem/Java_Programming_And_DSA)
+## [📘 Object Oriented Programming in Java](https://github.com/KhanMubashshirAzeem/ObjectOrientedProgramming_Java)
+
 
 ---
 
