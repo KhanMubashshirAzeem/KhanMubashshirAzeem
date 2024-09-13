@@ -35,7 +35,7 @@ My name is Khan Mubashshir, and I'm looking for internships. I am a native Andro
       </a>
     </td>
         <td>
-      <a href="https://www.naukri.com/mnjuser/performance#recruiterActions" target="blank">
+      <a href="https://www.naukri.com/mnjuser/profile?id=&altresid" target="blank">
         <img src="https://play-lh.googleusercontent.com/76gEFhQto5xMHr2Qf8nWLvm1s0O60clhkwHvxQDSeI3hthf7Zs05JJQeyg5H347DGQ" alt="Naukri Button" width="50" height="50">
       </a>
     </td>
