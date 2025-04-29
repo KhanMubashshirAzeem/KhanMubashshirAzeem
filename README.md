@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-My name is Khan Mubashshir, and I'm looking for internships. I am a native Android developer passionate about creating standout Android applications. I thrive on learning and building apps that make a difference. Solving problems in Data Structures and Algorithms (DSA) excites me, and Java is my favorite programming language for developing innovative solutions. Along with my strong understanding of frontend development in Android, I am well-versed in database concepts and familiar with APIs and various architectural patterns. I have built several small projects leveraging resources like GitHub, Google, and YouTube. Currently, I am pursuing my final year in Computer Science Engineering. If you are looking for someone who loves building cool stuff for Android and enjoys tackling challenging problems, let's connect and collaborate!
+My name is Khan Mubashshir, and I'm looking for job. I am a native Android developer passionate about creating standout Android applications. I thrive on learning and building apps that make a difference. Solving problems in Data Structures and Algorithms (DSA) excites me, and Java is my favorite programming language for developing innovative solutions. Along with my strong understanding of frontend development in Android, I am well-versed in database concepts and familiar with APIs and various architectural patterns. I have built several small projects leveraging resources like GitHub, Google, and YouTube. Currently, I am pursuing my final year in Computer Science Engineering. If you are looking for someone who loves building cool stuff for Android and enjoys tackling challenging problems, let's connect and collaborate!
 
 ---
 
