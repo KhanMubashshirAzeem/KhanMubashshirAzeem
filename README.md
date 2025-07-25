@@ -13,7 +13,7 @@
 
 ## 🧑‍💻 About Me
 
-Hey there! I'm Mubashshir — a passionate **native Android developer** from India 🇮🇳, currently pursuing my **final year in Computer Science Engineering**.
+Hey there! I'm Mubashshir — a passionate **native Android developer** from India 🇮🇳, Completed **BE/B-Tech in Computer Science Engineering**.
 
 💡 I love building real-world Android apps that solve problems.  
 🛠️ Skilled in **Kotlin**, **Java**, **Jetpack Compose**, **XML**, and **Firebase**.  
