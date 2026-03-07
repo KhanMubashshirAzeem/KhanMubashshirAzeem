@@ -152,7 +152,7 @@
    <td width="50%">
   <h3 align="center">CryptoCoin</h3>
   <div align="center">
-    <a href="https://github.com/KhanMubashshirAzeem/CryptoCoin" target="_blank">
+    <a href="https://github.com/KhanMubashshirAzeem/CryptoCoinApp" target="_blank">
       <img src="https://img.shields.io/badge/Code-View_Repository-blue?style=for-the-badge&logo=github" />
     </a>
     <p><strong>Kotlin • XML • REST APIs</strong></p>
