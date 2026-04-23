@@ -171,9 +171,7 @@
 
 ## 📊 GitHub Activity
 
-<div align="center">
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/KhanMubashshirAzeem/KhanMubashshirAzeem/output/github-contribution-grid-snake.svg" />
-</div>
+
 
 <br/>
 
